@@ -94,6 +94,9 @@
   text-decoration: none;
   text-align: center;
 }
+#es-rc #es-rc-content .es-faq__link-container {
+  text-decoration: none;
+}
 #es-rc #es-rc-content .es-faq__link {
   width: 200px;
   margin: 0 auto;
