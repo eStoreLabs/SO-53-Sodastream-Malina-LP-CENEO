@@ -732,6 +732,10 @@
   #es-rc #es-rc-content .es-video__title--desktop {
     display: block;
   }
+
+  #es-rc #es-rc-content .es-kv__link {
+    left: 22%;
+  }
 }
 @media screen and (min-width: 650px) {
   #es-rc #es-rc-content .es-kv {
@@ -817,7 +821,7 @@
     background: url(./static/img/description.jpg) no-repeat center center;
     background-size: cover;
     display: flex;
-    min-height: 420px;
+    min-height: 440px;
   }
   #es-rc #es-rc-content .es-description__title {
     font-size: 22px;
@@ -846,7 +850,7 @@
 }
 @media screen and (min-width: 998px) {
   #es-rc #es-rc-content .es-kv {
-    height: 480px;
+    height: 580px;
   }
   #es-rc #es-rc-content .es-ingredients {
     position: relative;
@@ -913,12 +917,12 @@
     height: 680px;
   }
   #es-rc #es-rc-content .es-description {
-    min-height: 575px;
+    min-height: 590px;
   }
 }
 @media screen and (min-width: 1200px) {
   #es-rc #es-rc-content .es-kv {
-    height: 780px;
+    height: 880px;
   }
   #es-rc #es-rc-content .es-kv__logotyp {
     padding-top: 12%;
@@ -942,7 +946,7 @@
 }
 @media screen and (min-width: 1550px) {
   #es-rc #es-rc-content .es-kv {
-    height: 880px;
+    height: 980px;
   }
 }
 @media screen and (min-width: 1800px) {
