@@ -94,6 +94,26 @@
   text-decoration: none;
   text-align: center;
 }
+#es-rc #es-rc-content .es-faq__link {
+  width: 200px;
+  margin: 0 auto;
+  font-family: 'HurmeGeometricSans3-Bold', sans-serif;
+  background: #13294b;
+  padding: 10px 20px;
+  border-radius: 40px;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+}
+#es-rc #es-rc-content .es-faq__packshot {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  max-height: 100%;
+  margin: 0 auto;
+  margin-left: -20px;
+  margin-bottom: 20px;
+}
 #es-rc #es-rc-content .es-features {
   background-color: #eeebe4;
   position: relative;
@@ -391,6 +411,7 @@
   font-size: 15px;
   margin-bottom: 10px;
   border-bottom: 1px solid #ffffff;
+  color: #fff !important;
 }
 #es-rc #es-rc-content .es-faq__item-check {
   width: 30px;
