@@ -641,7 +641,7 @@
     gap: 30px;
   }
   #es-rc #es-rc-content .es-description__subtitle {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 @media screen and (min-width: 550px) {
@@ -740,6 +740,9 @@
   #es-rc #es-rc-content .es-kv__link {
     left: 22%;
   }
+  #es-rc #es-rc-content .es-description {
+    min-height: 340px;
+  }
 }
 @media screen and (min-width: 650px) {
   #es-rc #es-rc-content .es-kv {
@@ -835,6 +838,7 @@
   }
   #es-rc #es-rc-content .es-description__subtitle--desktop {
     display: block;
+    font-size: 18px;
   }
   #es-rc #es-rc-content .es-description__container {
     max-width: 420px;
